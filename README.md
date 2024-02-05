@@ -1,5 +1,6 @@
 # beginner-js-project-two
 Etch-A-Sketch: This is the second foundations project from the odin project course
+view it here: https://abongile184.github.io/beginner-js-project-two/
 
 Create a webpage with a 16x16 grid of square divs.
 
